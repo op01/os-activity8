@@ -3,6 +3,7 @@
 0000000000601000      4K r---- memusage
 0000000000602000      4K rw--- memusage
 0000000000b2f000    132K rw---   [ anon ]
+00007f13be380000   1024K rw-s- mmap.dat
 00007f13be480000   1768K r-x-- libc-2.19.so
 00007f13be63a000   2048K ----- libc-2.19.so
 00007f13be83a000     16K r---- libc-2.19.so
@@ -18,4 +19,4 @@
 00007ffc74ef0000      8K r----   [ anon ]
 00007ffc74ef2000      8K r-x--   [ anon ]
 ffffffffff600000      4K r-x--   [ anon ]
- total             5364K
+ total             6388K
