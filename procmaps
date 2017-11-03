@@ -1,6 +1,7 @@
 00400000-00402000 r-xp 00000000 00:370 317                               /home/ubuntu/workspace/lab8/memusage
 00601000-00602000 r--p 00001000 00:370 317                               /home/ubuntu/workspace/lab8/memusage
 00602000-00603000 rw-p 00002000 00:370 317                               /home/ubuntu/workspace/lab8/memusage
+00b2f000-00b50000 rw-p 00000000 00:00 0                                  [heap]
 7f13be480000-7f13be63a000 r-xp 00000000 00:370 80                        /lib/x86_64-linux-gnu/libc-2.19.so
 7f13be63a000-7f13be83a000 ---p 001ba000 00:370 80                        /lib/x86_64-linux-gnu/libc-2.19.so
 7f13be83a000-7f13be83e000 r--p 001ba000 00:370 80                        /lib/x86_64-linux-gnu/libc-2.19.so
