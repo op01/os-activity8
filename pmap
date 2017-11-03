@@ -1,0 +1,20 @@
+6331:   ./memusage
+0000000000400000      8K r-x-- memusage
+0000000000601000      4K r---- memusage
+0000000000602000      4K rw--- memusage
+00007f13be480000   1768K r-x-- libc-2.19.so
+00007f13be63a000   2048K ----- libc-2.19.so
+00007f13be83a000     16K r---- libc-2.19.so
+00007f13be83e000      8K rw--- libc-2.19.so
+00007f13be840000     20K rw---   [ anon ]
+00007f13be845000    140K r-x-- ld-2.19.so
+00007f13bea53000     12K rw---   [ anon ]
+00007f13bea64000     12K rw---   [ anon ]
+00007f13bea67000      4K r---- ld-2.19.so
+00007f13bea68000      4K rw--- ld-2.19.so
+00007f13bea69000      4K rw---   [ anon ]
+00007ffc74e0d000    132K rw---   [ stack ]
+00007ffc74ef0000      8K r----   [ anon ]
+00007ffc74ef2000      8K r-x--   [ anon ]
+ffffffffff600000      4K r-x--   [ anon ]
+ total             4204K
