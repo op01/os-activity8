@@ -1,0 +1,12 @@
+PID=6331
+Program starts. Press Enter to continue.
+Allocated memory 1 KB 0xb2f010
+Access memory 1 KB
+Allocated memory 1 MB 0x7f13be952010
+Access memory 1 MB
+Create file
+Open file
+Create memory map 0x7f13be380000
+Access Memory map. You can see data in the file.
+Free memory
+End
